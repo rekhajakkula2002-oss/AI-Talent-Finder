@@ -1,0 +1,4 @@
+name,experience_years,skills,location,linkedin_url,github_url,availability_note,profile_notes
+Candidate A,5.5,"Java, Spring Boot, Microservices, Angular, REST API, AWS",Hyderabad,https://www.linkedin.com/,https://github.com/,Recruiter to verify,Sample profile only
+Candidate B,4.0,"Java, Spring Boot, SQL, Docker, Jenkins",Hyderabad,https://www.linkedin.com/,https://github.com/,Recruiter to verify,Sample profile only
+Candidate C,6.0,"Python, Django, AWS, Docker, Kubernetes, REST API",Bengaluru,https://www.linkedin.com/,https://github.com/,Recruiter to verify,Sample profile only
